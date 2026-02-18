@@ -6,3 +6,8 @@ Answer: To better manage changes made to code and to document the software devel
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to Marketing, because this field uses a lot of statistics to make data-driven decisions to determine who to market to and how they market to people
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines 2 branches and rebasing moves a branch and copies it
+
